@@ -1,0 +1,30 @@
+#Circle
+10
+3 1
+#Rect
+5 9
+0 13
+#Rect
+4 8
+18 11
+#Rect
+1 4
+16 15
+#Circle
+5
+18 2
+#Triangle
+5 3 5
+9 18
+#Circle
+2
+1 3
+#Triangle
+7 4 3
+9 18
+#Rect
+2 5
+8 16
+#Circle
+7
+6 19
